@@ -1,5 +1,5 @@
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=20&duration=1200&pause=500&color=00FF00&center=false&vCenter=false&multiline=true&width=800&height=180&lines=%3E+.%2Finitialize_system.sh;%5BSUCCESS%5D+Mainframe+access+granted.;%3E+load_module+--user%3D%22Niraj+Kushwaha%22;%5BOK%5D+User+profile+loaded.;%3E+export+ROLE%3D%22Full+Stack+Developer%22;%3E+tail+-f+%2Fvar%2Flog%2Fstatus.log;%5BONLINE%5D+Awaiting+input..." alt="Cascading Terminal Output" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=20&duration=1200&pause=500&color=00FF00&center=false&vCenter=false&multiline=true&repeat=false&width=800&height=180&lines=%3E+.%2Finitialize_system.sh;%5BSUCCESS%5D+Mainframe+access+granted.;%3E+load_module+--user%3D%22Niraj_Kushwaha%22;%5BOK%5D+User+profile+loaded.;%3E+export+ROLE%3D%22Full+Stack+Developer+%2F%2F+UI+Designer%22;%3E+tail+-f+%2Fvar%2Flog%2Fstatus.log;%5BONLINE%5D+Awaiting+input..." alt="Cascading Terminal Output" />
 </div>
 
 <div align="left">
@@ -33,26 +33,34 @@
 }
 ```
 
+<br>
+
 ### `> ./scripts/audit-modules.sh`
 
-```console
-[SUCCESS] CORE REPOSITORIES LOADED:
+> **[ OK ] DEPENDENCIES VERIFIED**
 
-=> LANG_PROTOCOLS:
-   C, C++, Python, Java, JavaScript (ES6+), TypeScript, Dart
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,dart&perline=10" alt="Languages"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&perline=10" alt="Frontend Frameworks"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,aws&perline=10" alt="Backend and Database"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,github,git&perline=10" alt="Tools"/>
+  </a>
+</p>
 
-=> FRONTEND_ENGINE:
-   React.js, Next.js, React Native, Flutter, Tailwind CSS, shadcn/ui
-
-=> BACKEND_&_STORAGE:
-   Node.js, Express.js, Django, DRF, PostgreSQL, MongoDB
-
-=> RENDER_&_MOTION_API:
-   GSAP, Three.js, Locomotive Scroll, WebGL
-
-=> DEPLOY_RUNTIME:
-   Docker, AWS EC2, Nginx, GitHub Actions
-```
+<br>
 
 ### `> cd ~/projects && ls -lah`
 
