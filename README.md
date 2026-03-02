@@ -3,13 +3,13 @@
 </div>
 
 <div align="left">
-  <a href="https://linkedin.com/in/nirajkushwaha">
+  <a href="https://linkedin.com/in/nirajkushwaha" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nirajk.contact@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/thenirajkushwaha">
+  <a href="https://github.com/thenirajkushwaha" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
