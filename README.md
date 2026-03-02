@@ -1,5 +1,19 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&width=800&lines=%3E+system.boot()%3B;%3E+loading+module%3A+Niraj+Kushwaha...;%3E+status%3A+FULL+STACK+DEV+%2F%2F+UI+DESIGNER;%3E+connection+established." alt="Terminal Boot" />
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=20&duration=1200&pause=500&color=00FF00&center=false&vCenter=false&multiline=true&width=800&height=120&lines=%3E+.%2Finitialize_system.sh;%5BSUCCESS%5D+Mainframe+access+granted.;%3E+load_module+--user%3D%22Niraj_Kushwaha%22;%5BOK%5D+User+profile+loaded.;%3E+export+ROLE%3D%22Full+Stack+Developer+%2F%2F+UI+Designer%22;%3E+tail+-f+%2Fvar%2Flog%2Fstatus.log" alt="Cascading Terminal Output" />
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://linkedin.com/in/nirajkushwaha" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nirajk.contact@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/thenirajkushwaha" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <br>
@@ -23,7 +37,7 @@
   },
   "core_directive": "Architect bridging robust backend logic with fluid motion interfaces using low-latency protocols.",
   "network_status": "AVAILABLE_FOR_COMMISSION",
-  "last_login": "Tue Mar  3 00:55:00 2026 +0530"
+  "last_login": "Tue Mar  3 01:05:00 2026 +0530"
 }
 ```
 
@@ -74,16 +88,6 @@
 > * Bootstrapped responsive architecture for a robust financial transfer platform.
 > * Optimized component lifecycles yielding consistent 60fps animations.
 > * **`[ LIVE STATUS: WEBSITE ]`**
-
-<br>
-
-### `> ./initialize-comms.sh --ping`
-
-> **[ CONNECTION ROOT: ]**
-> 
-> * **EMAIL_SOCKET:** &nbsp;`[ nirajk.contact@gmail.com ]` -> [Send Transmission](mailto:nirajk.contact@gmail.com)
-> * **LINKEDIN_URI:** `[ in/nirajkushwaha ]` -> [Establish Connection](https://linkedin.com/in/nirajkushwaha)
-> * **GITHUB_NODE:** &nbsp;&nbsp;`[ @thenirajkushwaha ]` -> [View Source](https://github.com/thenirajkushwaha)
 
 <br>
 
