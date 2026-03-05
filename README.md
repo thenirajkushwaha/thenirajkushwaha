@@ -21,7 +21,7 @@
 ```json
 {
   "name": "Niraj Kushwaha",
-  "title": ["Full Stack Developer", "UI Designer"],
+  "title": ["Full Stack Developer"],
   "location": "Ahmedabad, Gujarat",
   "education": {
     "institute": "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat",
