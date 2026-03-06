@@ -35,8 +35,6 @@
 
 <br>
 
-<br>
-
 <h3><code>> cat ~/interests.html</code></h3>
 
 <blockquote><strong>[ MODULES LOADED ]</strong></blockquote>
