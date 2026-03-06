@@ -35,6 +35,42 @@
 
 <br>
 
+<br>
+
+<h3><code>> cat ~/interests.html</code></h3>
+
+<blockquote><strong>[ MODULES LOADED ]</strong></blockquote>
+
+<ul>
+  <li><strong>Systems Engineering</strong> — operating systems, distributed systems, backend architecture.</li>
+  <li><strong>Web Infrastructure</strong> — scalable APIs, real-time systems, database design.</li>
+  <li><strong>Web3 & Protocols</strong> — decentralized infrastructure, cryptographic systems, trustless networks.</li>
+  <li><strong>Networks & Communication Systems</strong> — signal flow, network analysis, system modelling.</li>
+  <li><strong>Performance Engineering</strong> — low-latency systems, runtime optimization.</li>
+</ul>
+
+<ul>
+  <li><strong>Interactive Frontend</strong> — motion-driven interfaces, immersive UI, animation systems.</li>
+  <li><strong>Human–Computer Interaction</strong> — designing intuitive digital experiences.</li>
+</ul>
+
+<ul>
+  <li><strong>Art & Expression</strong> — dance, choreography structure, performance aesthetics.</li>
+  <li><strong>Philosophy & Political Thought</strong> — ideas shaping societies and institutions.</li>
+  <li><strong>History & Civilizational Systems</strong> — long-term evolution of cultures and states.</li>
+</ul>
+
+<ul>
+  <li><strong>Cognitive Systems</strong> — ADHD productivity mechanics, learning complex skills efficiently.</li>
+  <li><strong>Spatial Reasoning</strong> — improving mental modelling and abstract visualization.</li>
+</ul>
+
+<br>
+
+<div align="left">
+  <code>[ STATUS: CONTINUOUSLY EXPLORING ]</code>
+</div>
+
 ### `> ./scripts/audit-modules.sh`
 
 > **[ OK ] DEPENDENCIES VERIFIED**
