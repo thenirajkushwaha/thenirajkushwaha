@@ -9,45 +9,6 @@ Ahmedabad, Gujarat, India
 **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**
 B.Tech in Electronics & Communication Engineering (2025–2029)
 
-## About
-
-I build scalable backend systems and modern web applications, with experience across frontend, backend, cloud deployment, and real-time systems.
-
-## Technical Skills
-
-### Languages
-
-* C
-* C++
-* Python
-* Java
-* JavaScript
-* TypeScript
-* Dart
-
-### Frontend
-
-* React
-* Next.js
-* Tailwind CSS
-* Flutter
-
-### Backend & Databases
-
-* Node.js
-* Express.js
-* Django
-* PostgreSQL
-* MongoDB
-
-### Tools & Platforms
-
-* Docker
-* Nginx
-* Git
-* GitHub
-* AWS
-
 ## Areas of Interest
 
 * Backend Engineering
