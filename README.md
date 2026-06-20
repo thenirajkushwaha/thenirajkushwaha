@@ -1,140 +1,91 @@
-<div>
-  <img src="./hero-animation.svg" alt="Custom Terminal Output" width="100%" />
-</div>
+# Niraj Kushwaha
 
-<div align="left">
-  <a href="https://linkedin.com/in/nirajkushwaha" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nirajk.contact@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/thenirajkushwaha" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+Full Stack Developer
 
-<br>
+Ahmedabad, Gujarat, India
 
-### `> whoami --verbose`
+## Education
 
-```json
-{
-  "name": "Niraj Kushwaha",
-  "title": ["Full Stack Developer"],
-  "location": "Ahmedabad, Gujarat",
-  "education": {
-    "institute": "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat",
-    "degree": "B.Tech in Electronics & Communication Engineering",
-    "batch": "2025 - 2029"
-  },
-  "objective": "I build robust backend systems and bridge them with fluid, motion-driven frontend interfaces.",
-  "status": "Available for freelance commissions."
-}
-```
+**Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**
+B.Tech in Electronics & Communication Engineering (2025–2029)
 
-<br>
+## About
 
-<h3><code>> cat ~/interests.html</code></h3>
+I build scalable backend systems and modern web applications, with experience across frontend, backend, cloud deployment, and real-time systems.
 
-<blockquote><strong>[ MODULES LOADED ]</strong></blockquote>
+## Technical Skills
 
-<ul>
-  <li><strong>Systems Engineering</strong> — operating systems, distributed systems, backend architecture.</li>
-  <li><strong>Web Infrastructure</strong> — scalable APIs, real-time systems, database design.</li>
-  <li><strong>Web3 & Protocols</strong> — decentralized infrastructure, cryptographic systems, trustless networks.</li>
-  <li><strong>Networks & Communication Systems</strong> — signal flow, network analysis, system modelling.</li>
-  <li><strong>Performance Engineering</strong> — low-latency systems, runtime optimization.</li>
-</ul>
+### Languages
 
-<ul>
-  <li><strong>Interactive Frontend</strong> — motion-driven interfaces, immersive UI, animation systems.</li>
-  <li><strong>Human–Computer Interaction</strong> — designing intuitive digital experiences.</li>
-</ul>
+* C
+* C++
+* Python
+* Java
+* JavaScript
+* TypeScript
+* Dart
 
-<ul>
-  <li><strong>Art & Expression</strong> — dance, choreography structure, performance aesthetics.</li>
-  <li><strong>Philosophy & Political Thought</strong> — ideas shaping societies and institutions.</li>
-  <li><strong>History & Civilizational Systems</strong> — long-term evolution of cultures and states.</li>
-</ul>
+### Frontend
 
-<ul>
-  <li><strong>Cognitive Systems</strong> — ADHD productivity mechanics, learning complex skills efficiently.</li>
-  <li><strong>Spatial Reasoning</strong> — improving mental modelling and abstract visualization.</li>
-</ul>
+* React
+* Next.js
+* Tailwind CSS
+* Flutter
 
-<br>
+### Backend & Databases
 
-<div align="left">
-  <code>[ STATUS: CONTINUOUSLY EXPLORING ]</code>
-</div>
+* Node.js
+* Express.js
+* Django
+* PostgreSQL
+* MongoDB
 
-### `> ./scripts/audit-modules.sh`
+### Tools & Platforms
 
-> **[ OK ] DEPENDENCIES VERIFIED**
+* Docker
+* Nginx
+* Git
+* GitHub
+* AWS
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,dart&perline=10" alt="Languages"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&perline=10" alt="Frontend Frameworks"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,aws&perline=10" alt="Backend and Database"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,github,git&perline=10" alt="Tools"/>
-  </a>
-</p>
+## Areas of Interest
 
-<br>
+* Backend Engineering
+* Distributed Systems
+* System Design
+* Web Infrastructure
+* Database Design
+* Real-Time Systems
+* Networks & Communication Systems
+* Performance Optimization
+* Human-Computer Interaction
 
-### `> cd ~/projects && ls -lah`
+## Projects
 
-> `root@nkushwaha:~/projects$ cat 01-80z.md`
-> ### [ 80z — In-Campus Food Ordering ](https://play.google.com/store/apps/details?id=com.neumind.eightyz&pcampaignid=web_share) 
-> `[RUNTIME: Flutter / Django / PostgreSQL / AWS EC2]`
-> * Executed full-stack deployment digitizing campus logistics.
-> * Engineered real-time DB sync for stock management.
-> * **`[ LIVE STATUS: PLAY STORE ]`**
+### 80z — In-Campus Food Ordering
 
-<br>
+**Tech Stack:** Flutter, Django, PostgreSQL, AWS EC2
 
-> `root@nkushwaha:~/projects$ cat 02-AnotherIdea.md`
-> ### [ AnotherIdea Productions ](https://anotherideaproductions.com/)
-> `[RUNTIME: Next.js / GSAP / Locomotive Scroll]`
-> * Developed an interactive client terminal for a Mumbai production house.
-> * Injected motion-driven UI components to boost brand retention.
-> * **`[ LIVE STATUS: WEBSITE ]`**
+* Built and deployed a campus food-ordering platform.
+* Implemented real-time inventory synchronization.
+* Published on Google Play Store.
 
-<br>
+### AnotherIdea Productions
 
-> `root@nkushwaha:~/projects$ cat 03-TykePe.md`
-> ### [ TykePe — Money Transfer Platform ](https://tykepe.vercel.app/)
-> `[RUNTIME: React.js / GSAP / Locomotive Scroll]`
-> * Bootstrapped responsive architecture for a robust financial transfer platform.
-> * Optimized component lifecycles yielding consistent 60fps animations.
-> * **`[ LIVE STATUS: WEBSITE ]`**
+**Tech Stack:** Next.js, GSAP
 
-<br>
+* Developed an interactive website for a production house.
+* Built animation-driven user experiences and custom interfaces.
 
-### `> ./initialize-comms.sh --ping`
+### TykePe — Money Transfer Platform
 
-> **[ CONNECTION ROOT: ]**
-> 
-> * **EMAIL_SOCKET:** &nbsp;`[ nirajk.contact@gmail.com ]` -> [Send Transmission](mailto:nirajk.contact@gmail.com)
-> * **LINKEDIN_URI:** `[ in/nirajkushwaha ]` -> [Establish Connection](https://linkedin.com/in/nirajkushwaha)
-> * **GITHUB_NODE:** &nbsp;&nbsp;`[ @thenirajkushwaha ]` -> [View Source](https://github.com/thenirajkushwaha)
+**Tech Stack:** React.js, GSAP
 
-<br>
+* Developed responsive frontend architecture.
+* Optimized performance for smooth user interactions.
 
-<div align="center">
-  <code>EOF. SYSTEM SHUTTING DOWN...</code>
-</div>
+## Links
+
+* GitHub: https://github.com/thenirajkushwaha
+* LinkedIn: https://linkedin.com/in/nirajkushwaha
+* Email: [nirajk.contact@gmail.com](mailto:nirajk.contact@gmail.com)
