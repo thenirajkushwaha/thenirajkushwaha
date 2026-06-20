@@ -9,18 +9,6 @@ Ahmedabad, Gujarat, India
 **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**
 B.Tech in Electronics & Communication Engineering (2025–2029)
 
-## Areas of Interest
-
-* Backend Engineering
-* Distributed Systems
-* System Design
-* Web Infrastructure
-* Database Design
-* Real-Time Systems
-* Networks & Communication Systems
-* Performance Optimization
-* Human-Computer Interaction
-
 ## Projects
 
 ### 80z — In-Campus Food Ordering
